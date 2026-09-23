@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "984517870147",
+    "firebase_url": "https://smarttravelcompanionapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smarttravelcompanionapp",
+    "storage_bucket": "smarttravelcompanionapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984517870147:android:10a90ac74f722f21d0caf6",
+        "android_client_info": {
+          "package_name": "com.example.smarttravelcompanion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "GOOGLE_SERVICE_KEY_removed"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
